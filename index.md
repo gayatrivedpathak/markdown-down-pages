@@ -34,4 +34,3 @@ gayatri|10
 Azhar|12
 
 :+1:
-
