@@ -8,7 +8,8 @@
 
 [google](google.com)
 
-![Image](https://5.imimg.com/data5/PY/PF/MY-43750835/multi-color-flower-bouquet-500x500.jpg)
+![Image](https://5.imimg.com/data5/PY\/PF/MY-43750835/multi-color-flower-bouquet-500x500.jpg)
+
 
 * flowers
   * rose
@@ -29,7 +30,7 @@ console.log('This some random code')
 __bold__
 
 names|mark
----|---
+--|--
 gayatri|10
 Azhar|12
 
